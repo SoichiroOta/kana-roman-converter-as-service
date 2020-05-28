@@ -1,0 +1,2 @@
+pykakasi==2.0.0a6
+responder==2.0.5
